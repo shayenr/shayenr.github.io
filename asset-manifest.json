@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2056b9c.css",
-    "main.js": "/static/js/main.e386b2f7.js",
-    "static/media/Shayen Ramsahai CV 2025.pdf": "/static/media/Shayen Ramsahai CV 2025.5ab5624a98a648062dc8.pdf",
+    "main.css": "/static/css/main.0402fdc9.css",
+    "main.js": "/static/js/main.1eb30439.js",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.a2056b9c.css",
-    "static/js/main.e386b2f7.js"
+    "static/css/main.0402fdc9.css",
+    "static/js/main.1eb30439.js"
   ]
 }
