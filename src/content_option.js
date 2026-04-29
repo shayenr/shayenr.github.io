@@ -192,8 +192,6 @@ const contactConfig = {
     YOUR_EMAIL: "shayen.ramsahai@gmail.com",
     YOUR_FONE: "+447624290895",
     description: "Feel free to email me or contact me on whatsapp for any queries",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
